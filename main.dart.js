@@ -41334,7 +41334,7 @@ p=$.bp
 o=(p==null?$.bp=$.dt():p).cS(0,"[DEFAULT]")
 A.bL(o,$.dc(),!1)
 p=A.ke(new A.cx(o))
-A.lc(p,p.gi2().hw("allProduct")).A(0,A.ak(["productName",c,"createrPhone",h,"createdTime","","createrId","admin","images",b,"createrCity",f,"isPermission","wait","productCategory",i,"productSubCat",a1,"productDescription",d,"productId","","sos",a0,"search",l,"productPrice",A.fZ(e,null)],t.N,t.z)).b4(0,new A.a56(m,q),t.P)
+A.lc(p,p.gi2().hw("allProduct")).A(0,A.ak(["productName",c,"createrPhone",h,"createdTime","","createrId","admin","images",b,"createrCity",f,"isPermission","yes","productCategory",i,"productSubCat",a1,"productDescription",d,"productId","","sos",a0,"search",l,"productPrice",A.fZ(e,null)],t.N,t.z)).b4(0,new A.a56(m,q),t.P)
 return A.N(null,r)}})
 return A.O($async$uI,r)}}
 A.a56.prototype={
